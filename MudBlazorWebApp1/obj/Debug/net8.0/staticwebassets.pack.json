@@ -1,0 +1,497 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\00.jpg",
+      "PackagePath": "staticwebassets\\images\\00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\01.png",
+      "PackagePath": "staticwebassets\\images\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\2225.jpg",
+      "PackagePath": "staticwebassets\\images\\2225.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\3D-social-media-icons-with-smartphone-symbol-on-transparent-background-PNG.png",
+      "PackagePath": "staticwebassets\\images\\3D-social-media-icons-with-smartphone-symbol-on-transparent-background-PNG.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\Originals\\gentjan-mara-img.png",
+      "PackagePath": "staticwebassets\\images\\Originals\\gentjan-mara-img.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\Originals\\ksz-image.png",
+      "PackagePath": "staticwebassets\\images\\Originals\\ksz-image.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\Originals\\palushi-brothers-img.png",
+      "PackagePath": "staticwebassets\\images\\Originals\\palushi-brothers-img.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\Originals\\palushi-brothers.jpg",
+      "PackagePath": "staticwebassets\\images\\Originals\\palushi-brothers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\about-pic.jpg",
+      "PackagePath": "staticwebassets\\images\\about-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\about-us.jpg",
+      "PackagePath": "staticwebassets\\images\\about-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\about-us.png",
+      "PackagePath": "staticwebassets\\images\\about-us.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\banner.png",
+      "PackagePath": "staticwebassets\\images\\banner.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\besis-imbiss.jpg",
+      "PackagePath": "staticwebassets\\images\\besis-imbiss.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\bg-header.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\black-logo-transparent.png",
+      "PackagePath": "staticwebassets\\images\\black-logo-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\contact-us.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\digital-marketing-2.gif",
+      "PackagePath": "staticwebassets\\images\\digital-marketing-2.gif"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\extra\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\extra\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\extra\\3.png",
+      "PackagePath": "staticwebassets\\images\\extra\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\extra\\4.png",
+      "PackagePath": "staticwebassets\\images\\extra\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\extra\\5.png",
+      "PackagePath": "staticwebassets\\images\\extra\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\extra\\6.png",
+      "PackagePath": "staticwebassets\\images\\extra\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\extra\\7.png",
+      "PackagePath": "staticwebassets\\images\\extra\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\extra\\mountain-background.jpg",
+      "PackagePath": "staticwebassets\\images\\extra\\mountain-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\favicon-2.ico",
+      "PackagePath": "staticwebassets\\images\\favicon-2.ico"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\faviconnew.png",
+      "PackagePath": "staticwebassets\\images\\faviconnew.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\00.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\00.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\01.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\1.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\contact-us.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\contact-us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\extra\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\extra\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\extra\\3.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\extra\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\extra\\4.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\extra\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\extra\\5.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\extra\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\extra\\6.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\extra\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\extra\\7.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\extra\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\extra\\mountain-background.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\extra\\mountain-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\favicon-2.ico",
+      "PackagePath": "staticwebassets\\images\\fulls\\favicon-2.ico"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\logo-3.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\logo-black.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\logo-black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\logo-white.jpg",
+      "PackagePath": "staticwebassets\\images\\fulls\\logo-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\projects-logo\\1.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\projects-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\projects-logo\\ksz-logo.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\projects-logo\\ksz-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\fulls\\projects-logo\\pb-logo.png",
+      "PackagePath": "staticwebassets\\images\\fulls\\projects-logo\\pb-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\gentjan-mara-img.png",
+      "PackagePath": "staticwebassets\\images\\gentjan-mara-img.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\gentjan-mara.png",
+      "PackagePath": "staticwebassets\\images\\gentjan-mara.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\gm.png",
+      "PackagePath": "staticwebassets\\images\\gm.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\header-bg - Kopie.jpg",
+      "PackagePath": "staticwebassets\\images\\header-bg - Kopie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\header.jpg",
+      "PackagePath": "staticwebassets\\images\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\img-header.png",
+      "PackagePath": "staticwebassets\\images\\img-header.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\img-testimonial1.png",
+      "PackagePath": "staticwebassets\\images\\img-testimonial1.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\img-testimonial2.png",
+      "PackagePath": "staticwebassets\\images\\img-testimonial2.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\img-us.png",
+      "PackagePath": "staticwebassets\\images\\img-us.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\intro-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\intro-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\intro-bg.png",
+      "PackagePath": "staticwebassets\\images\\intro-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\intro.jpg",
+      "PackagePath": "staticwebassets\\images\\intro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\ksz-image.png",
+      "PackagePath": "staticwebassets\\images\\ksz-image.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\ksz-weiden.jpg",
+      "PackagePath": "staticwebassets\\images\\ksz-weiden.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\ksz.png",
+      "PackagePath": "staticwebassets\\images\\ksz.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\logo-3.png",
+      "PackagePath": "staticwebassets\\images\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\logo-black-2.jpg",
+      "PackagePath": "staticwebassets\\images\\logo-black-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\logo-black.jpg",
+      "PackagePath": "staticwebassets\\images\\logo-black.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\logo-white.jpg",
+      "PackagePath": "staticwebassets\\images\\logo-white.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\mx-icon.png",
+      "PackagePath": "staticwebassets\\images\\mx-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\mx-techsolutions.jpg",
+      "PackagePath": "staticwebassets\\images\\mx-techsolutions.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\mx-techsolutions.png",
+      "PackagePath": "staticwebassets\\images\\mx-techsolutions.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\new-web-pic.gif",
+      "PackagePath": "staticwebassets\\images\\new-web-pic.gif"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\one.jpg",
+      "PackagePath": "staticwebassets\\images\\one.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\online-shopping-2.jpg",
+      "PackagePath": "staticwebassets\\images\\online-shopping-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\online-shopping.jpg",
+      "PackagePath": "staticwebassets\\images\\online-shopping.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\palushi-brothers-img.png",
+      "PackagePath": "staticwebassets\\images\\palushi-brothers-img.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\palushi-brothers.jpg",
+      "PackagePath": "staticwebassets\\images\\palushi-brothers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\pb.png",
+      "PackagePath": "staticwebassets\\images\\pb.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\photothumb.db",
+      "PackagePath": "staticwebassets\\images\\photothumb.db"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\programming-developer-2.gif",
+      "PackagePath": "staticwebassets\\images\\programming-developer-2.gif"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\programming-developer.png",
+      "PackagePath": "staticwebassets\\images\\programming-developer.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\projects-logo\\1.png",
+      "PackagePath": "staticwebassets\\images\\projects-logo\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\projects-logo\\ksz-logo.png",
+      "PackagePath": "staticwebassets\\images\\projects-logo\\ksz-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\projects-logo\\pb-logo.png",
+      "PackagePath": "staticwebassets\\images\\projects-logo\\pb-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\seo-2.avif",
+      "PackagePath": "staticwebassets\\images\\seo-2.avif"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\seo.jpg",
+      "PackagePath": "staticwebassets\\images\\seo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\seo.webp",
+      "PackagePath": "staticwebassets\\images\\seo.webp"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\small-icon.png",
+      "PackagePath": "staticwebassets\\images\\small-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\social-media-2.png",
+      "PackagePath": "staticwebassets\\images\\social-media-2.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\social-media-management.webp",
+      "PackagePath": "staticwebassets\\images\\social-media-management.webp"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\social-media.png",
+      "PackagePath": "staticwebassets\\images\\social-media.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\social-network.jpg",
+      "PackagePath": "staticwebassets\\images\\social-network.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\soon.avif",
+      "PackagePath": "staticwebassets\\images\\soon.avif"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\test.jpg",
+      "PackagePath": "staticwebassets\\images\\test.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\thumbs\\01.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\thumbs\\02.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\thumbs\\03.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\thumbs\\04.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\thumbs\\05.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\thumbs\\06.jpg",
+      "PackagePath": "staticwebassets\\images\\thumbs\\06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\thumbs\\photothumb.db",
+      "PackagePath": "staticwebassets\\images\\thumbs\\photothumb.db"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\two.jpg",
+      "PackagePath": "staticwebassets\\images\\two.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\video-editor.png",
+      "PackagePath": "staticwebassets\\images\\video-editor.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\web-design-2.png",
+      "PackagePath": "staticwebassets\\images\\web-design-2.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\web-design.png",
+      "PackagePath": "staticwebassets\\images\\web-design.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\white-logo-transparent.png",
+      "PackagePath": "staticwebassets\\images\\white-logo-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\why-website.jpg",
+      "PackagePath": "staticwebassets\\images\\why-website.jpg"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\why-you-need-a-website.webp",
+      "PackagePath": "staticwebassets\\images\\why-you-need-a-website.webp"
+    },
+    {
+      "Id": "C:\\Users\\tln\\Desktop\\MudBlazor\\MudBlazorWebApp1\\MudBlazorWebApp1\\wwwroot\\images\\why-you-need-an-online-store.webp",
+      "PackagePath": "staticwebassets\\images\\why-you-need-an-online-store.webp"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MudBlazorWebApp1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MudBlazorWebApp1.props",
+      "PackagePath": "build\\MudBlazorWebApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MudBlazorWebApp1.props",
+      "PackagePath": "buildMultiTargeting\\MudBlazorWebApp1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MudBlazorWebApp1.props",
+      "PackagePath": "buildTransitive\\MudBlazorWebApp1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
